@@ -1,4 +1,4 @@
-# Programmeren 2 onderdeel van CMTTHE01-2
+# Programmeren 2 onderdeel van CMGTHE01-2
 
 Hier vind je alle informatie, lesvoorbeelden, les- en oefenopdrachten voor programmeren 2.
 Binnen deze cursus leer je CRUD functionaliteit bouwen in een website met behulp van [PHP](https://www.php.net/).
